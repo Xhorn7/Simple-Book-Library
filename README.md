@@ -1,1 +1,1 @@
-A application for library using C language.
+Simple Book Library adalah aplikasi menggunakan Bahasa C dan C++ untuk di bidang perpusatakaan. User dapat meminjam buku dan mengembalikannya, jika user mengembalikkan bukunya diluar deadline yang ditentukan maka akan dikenakan denda bahkan blacklist. Dan tentunya ada feature admin yang berguna untuk mengatur stok buku library tersebut.
